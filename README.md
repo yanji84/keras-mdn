@@ -13,3 +13,5 @@ First test example is a 1d to 1d mapping
 
 Second test example is a 1d to 2d mapping
 ![Alt text](/screenshots/mdn_3d.png?raw=true&style=centerme "mapping 1d to 2d")
+
+Thanks to http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/ for helpful guide on implementation
